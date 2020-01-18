@@ -10,7 +10,7 @@ console.log(country);
 
 // let cost;
 
-// switch (countryInputRef.value) {
+// switch (country) {
 //   case 'китай':
 //     cost = 100;
 //     break;
